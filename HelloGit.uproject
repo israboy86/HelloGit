@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.16",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "HelloGit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
